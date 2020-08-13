@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Cartao" size="1.000000 1.908397" />
+    <ImageTarget name="M10" size="1.000000 2.310469" />
+    <ImageTarget name="M5" size="0.100000 0.135227" />
+    <ImageTarget name="M3" size="0.100000 0.064352" />
+    <ImageTarget name="M4" size="0.100000 0.066058" />
+    <ImageTarget name="M2" size="0.100000 0.099324" />
+    <ImageTarget name="M1" size="0.100000 0.091228" />
+  </Tracking>
+</QCARConfig>
